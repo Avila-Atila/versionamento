@@ -2,8 +2,8 @@
 
 # SPRINT BACKLOG
 
-- [] Tarefa 1 Implementar mudanças no arquivo index.html
-- [] Tarefa 2 Implementar mudanças no arquivo contato.html
+- [ ] Tarefa 1 Implementar mudanças no arquivo index.html
+- [ ] Tarefa 2 Implementar mudanças no arquivo contato.html
 
 O time de desenvolvimento optou por implementar nessa sprint as soluções 1 e 3 do 𝘗𝘳𝘰𝘥𝘶𝘤𝘵 𝘉𝘢𝘤𝘬𝘭𝘰𝘨. Essas soluções foram escolhidas pois teriam maior impacto positivo na usabilidade do produto, proporcionando uma melhor experiência de usuário de acordo com o que foi observado pelo 𝘗𝘳𝘰𝘥𝘶𝘤𝘵 𝘖𝘸𝘯𝘦𝘳. Serão modificados os arquivos index.html, de maneira que na página "index" os nomes dos veículos sejam vistos em uma fonte de cor azul, e contato.html, de maneira que na página "contato", os nomes dos links para outras páginas sejam mais detalhados, o que facilita a navegação.
 
